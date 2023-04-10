@@ -21,7 +21,7 @@ RocketMovies is an app where you can keep track of everything you can watch.
 - Axios
 
 ### Back-End
-- [BackEnd Code](https://github.com/bvanny/Explorer-RocketSeat/tree/main/Desafio-RocketMovies-Back)
+- You can view the  [Back-End Code](https://github.com/bvanny/Explorer-RocketSeat/tree/main/Desafio-RocketMovies-Back)
 - Node.js
 - Express
 - SQLite
